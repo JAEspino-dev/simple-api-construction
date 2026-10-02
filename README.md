@@ -2,7 +2,7 @@
 Use this program if you want to warm up your body before getting to work!
 
 # 📋 How to use
-Open the app in your browser. 
+Open the app in your browser.   
 Choose a muscle you want to warm up, submit.  
 Instantly view warm up exercises!   
 
